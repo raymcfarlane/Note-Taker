@@ -9,7 +9,7 @@
   - [Questions](#questions)
  
 ## Description
-Notetaker is an application that is used to write and save notes. This application ises express backend to save and retrieve notes from the JSON file.
+Notetaker is an application that is used to write and save notes. This application uses express backend to save and retrieve notes from the JSON file.
 ## Screenshots
 ## Installation
 Ensure NPM is installed. In the integrated terminal type NPM i to start the installation.
